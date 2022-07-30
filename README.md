@@ -1,9 +1,5 @@
 # LR_Parser
 
-## Table of Contents
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## Technologies
 Project is created with:
 * Node.js version: 14
