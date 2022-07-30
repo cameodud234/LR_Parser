@@ -1,6 +1,6 @@
 # LR_Parser
 
-## Table of contents
+## Table of Contents
 * [Technologies](#technologies)
 * [Setup](#setup)
 
